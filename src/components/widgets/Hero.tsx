@@ -16,12 +16,11 @@ export default component$(() => {
               </h1>
               <div class="max-w-3xl mx-auto">
                 <p class="text-xl text-gray-600 mb-8 dark:text-slate-400">
-Why run after .
+Welcome to 
                   <span class="font-semibold underline decoration-wavy decoration-1 decoration-secondary-600 underline-offset-2">
-                    NotAnyPlace
+                    NotAnyPlace,
                   </span>{" "}
-                  is a production ready template to start your new website using <em>Qwik</em> + <em>Tailwind CSS</em>.
-                  It has been designed following Best Practices, SEO, Accessibility,{" "}
+                  a place where Powerful  {" "}
                   <span class="inline md:hidden">...</span>
                   <span class="hidden md:inline">
                     Dark Mode, Great Page Speed, image optimization, sitemap generation and more.

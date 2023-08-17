@@ -16,7 +16,7 @@ export default component$(() => {
               </h1>
               <div class="max-w-3xl mx-auto">
                 <p class="text-xl text-gray-600 mb-8 dark:text-slate-400">
-Welcome to 
+Welcome to {" "}
                   <span class="font-semibold underline decoration-wavy decoration-1 decoration-secondary-600 underline-offset-2">
                     NotAnyPlace,
                   </span>{" "}

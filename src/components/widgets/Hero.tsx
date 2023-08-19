@@ -19,7 +19,7 @@ export default component$(() => {
 Welcome to a 
 <b> World of Possibilities</b>, Welcome to {" "}
                   <span class="font-semibold underline decoration-wavy decoration-1 decoration-secondary-600 underline-offset-2">
-                    NotAnyPlace,
+                    NotAnyPlace.
                   </span>{" "}
                   a place where Powerful  {" "}
                   <span class="inline md:hidden">...</span>

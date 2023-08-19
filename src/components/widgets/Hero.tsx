@@ -24,7 +24,7 @@ Welcome to a
                   A place where Efficiency, Affordability and Quality combine to form the perfect mix for the customers. {" "}
                   <span class="inline md:hidden">...</span>
                   <span class="hidden md:inline">
-                    Dark Mode, Great Page Speed, image optimization, sitemap generation and more.
+                    
                   </span>
                 </p>
                 <div class="flex flex-col flex-nowrap gap-4 m-auto max-w-xs sm:flex-row sm:justify-center sm:max-w-md lg:justify-start lg:m-0 lg:max-w-7xl">

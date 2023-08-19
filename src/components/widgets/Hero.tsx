@@ -31,16 +31,17 @@ Welcome to a
                   <div class="flex w-full sm:w-auto">
                     <a
                       class="btn btn-primary sm:mb-0 w-full"
-                      href="https://github.com/onwidget/qwind"
+                      href="https://example.com"
                       target="_blank"
                       rel="noopener"
                     >
-                      Get template
+                      Get Started
                     </a>
                   </div>
                   <div class="flex w-full sm:w-auto">
-                    <button class="btn w-full bg-gray-50 dark:bg-transparent">Learn more</button>
-                  </div>
+    <a href="https://www.example.com" class="btn w-full bg-gray-50 dark:bg-transparent">Learn more</a>
+</div>
+
                 </div>
               </div>
             </div>

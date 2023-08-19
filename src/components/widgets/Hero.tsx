@@ -21,7 +21,7 @@ Welcome to a
                   <span class="font-semibold underline decoration-wavy decoration-1 decoration-secondary-600 underline-offset-2">
                     NotAnyPlace.
                   </span>{" "}
-                  a place where Powerful  {" "}
+                  A place where Efficiency, Affordability and Quality combine to form the perfect mix for the customers. {" "}
                   <span class="inline md:hidden">...</span>
                   <span class="hidden md:inline">
                     Dark Mode, Great Page Speed, image optimization, sitemap generation and more.

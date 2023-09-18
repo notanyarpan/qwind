@@ -7,6 +7,14 @@
  */
 
 @tailwind base;
+/* styles.css */
+.custom-scrollbar {
+  scrollbar-color: red;
+  scrollbar-width: thin;
+  scrollbar-track-color: #f2f2f2;
+}
+
+
 @tailwind components;
 @tailwind utilities;
 

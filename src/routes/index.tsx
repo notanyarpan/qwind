@@ -34,7 +34,7 @@ export default component$(() => {
             icon: IconBrandTailwind,
           },
           {
-            title: "Diino Maeketplace",
+            title: "Diino Marketplace",
             description:
               "Diino Marketplace is a DiinoTech brand focusing on selling online merchendice such as instagram followers, youtube premium and more.",
             icon: IconApps,
@@ -45,22 +45,10 @@ export default component$(() => {
               "DiinoMC is DiinoTechs first ever minecraft server. Where you can play amny types of minigames such as lifesteal and more.",
           },
           {
-            title: "Excellent Page Speed",
+            title: "DiinoWeb",
             description:
-              "Having a good page speed impacts organic search ranking, improves user experience (UI/UX) and increase conversion rates.",
+              "DiinoWeb is a DiinoTech brand focusing on web development, data and more.",
             icon: IconRocket,
-          },
-          {
-            title: "Search Engine Optimization (SEO)",
-            description:
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
-            icon: IconBrandGoogle,
-          },
-          {
-            title: "Open to new ideas and contributions",
-            description:
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
-            icon: IconBulb
           },
         ]}
       />

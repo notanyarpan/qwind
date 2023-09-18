@@ -87,7 +87,7 @@ export default component$(() => {
               aria-label="Qwind Github"
               class="ml-3 btn btn-primary w-full h-10 px-5 shadow-none text-base"
             >
-              Download
+              Discord Server
             </a>
           </div>
         </div>

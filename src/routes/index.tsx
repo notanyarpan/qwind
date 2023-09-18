@@ -36,7 +36,7 @@ export default component$(() => {
           {
             title: "DiinoMC",
             description:
-              "DiinoMC is DiinoTechs first ever minecraft server. Where you can play amny types of minigames such as lifesteal and more.",
+              "DiinoMC is DiinoTech's first ever minecraft server. Where you can play amny types of minigames such as lifesteal and more.",
             icon: IconApps,
           },
           {

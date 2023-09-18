@@ -23,32 +23,44 @@ export default component$(() => {
     <>
       <Hero />
       <Features
-        highlight="Our Brands"
-        title="DiinoTechs Brands"
-        subtitle="The offical brands of Diinotech"
+        highlight="Features"
+        title="What you get with Qwind"
+        subtitle="Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae."
         items={[
           {
-            title: "DiinoHost",
+            title: "Qwik + Tailwind CSS Integration",
             description:
-              "DiinoHost is a DiinoTech brand focusing on hosting. DiinoHost provides free and paid 24/7 hosting. We host minecraft servers, discord bots and much more!",
+              "A seamless integration between two great frameworks that offer high productivity, performance and versatility.",
             icon: IconBrandTailwind,
           },
           {
-            title: "Diino Marketplace",
+            title: "Ready-to-use Components",
             description:
-              "Diino Marketplace is a DiinoTech brand focusing on selling online merchendice such as instagram followers, youtube premium and more.",
+              "Widgets made with Tailwind CSS ready to be used in Marketing Websites, SaaS, Blogs, Personal Profiles, Small Business...",
             icon: IconApps,
           },
           {
-            title: "DiinoMC",
+            title: "Best Practices",
             description:
-              "DiinoMC is DiinoTechs first ever minecraft server. Where you can play amny types of minigames such as lifesteal and more.",
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
           },
           {
-            title: "DiinoWeb",
+            title: "Excellent Page Speed",
             description:
-              "DiinoWeb is a DiinoTech's newest upcoming brand focusing on web development, data and more.",
+              "Having a good page speed impacts organic search ranking, improves user experience (UI/UX) and increase conversion rates.",
             icon: IconRocket,
+          },
+          {
+            title: "Search Engine Optimization (SEO)",
+            description:
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
+            icon: IconBrandGoogle,
+          },
+          {
+            title: "Open to new ideas and contributions",
+            description:
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
+            icon: IconBulb
           },
         ]}
       />

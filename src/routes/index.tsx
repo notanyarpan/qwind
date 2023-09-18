@@ -28,13 +28,13 @@ export default component$(() => {
         subtitle="The official brands of DiinoTech."
         items={[
           {
-            title: "DiinoHost",
+            title: "Diino Host",
             description:
               "Diino Host is a DiinoTech brand focusing on hosting. DiinoHost provides free and paid 24/7 hosting. We host minecraft servers, discord bots and many more!",
             icon: IconBrandTailwind,
           },
           {
-            title: "DiinoMarketplace",
+            title: "Diino Marketplace",
             description:
               "DiinoMarketplace is a DiinoTech brand focusing on giving you online merchendice such as youtube premium, instagram followers and much more. ",
             icon: IconApps,
@@ -45,10 +45,10 @@ export default component$(() => {
               "DiinoMC is DiinoTechs first ever minecraft server brand focusing on giving you the best time of your life on our minecraft server, focusing on lifesteal and more",
           },
           {
-            title: "Excellent Page Speed",
+            title: "DiinoWeb",
             description:
-              "Having a good page speed impacts organic search ranking, improves user experience (UI/UX) and increase conversion rates.",
-            icon: IconRocket,
+              "Nothing yet",
+            icon: IconLaptop,
           },
           {
             title: "Search Engine Optimization (SEO)",

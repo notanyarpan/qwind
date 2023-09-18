@@ -35,7 +35,7 @@ Welcome to a
                       target="_blank"
                       rel="noopener"
                     >
-                      Get Started
+                      Our Discord Server
                     </a>
                   </div>
                   <div class="flex w-full sm:w-auto">

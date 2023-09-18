@@ -12,7 +12,7 @@ export default component$(() => {
           </h2>
           <p class="text-3xl font-medium md:text-3xl">Sorry, we couldn't find this page.</p>
           <p class="mt-4 mb-8 text-lg text-muted">
-            But dont worry, you can find plenty of other things on our homepage.
+            But dont worry, there is always a path back to diino. Click here! You know whats better then a 404 page? A free 24/7 minecraft server!
           </p>
           <a rel="noopener noreferrer" href="/" class="btn">
             Back to home

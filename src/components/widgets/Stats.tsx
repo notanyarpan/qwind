@@ -6,26 +6,26 @@ export default component$(() => {
       <div class="grid grid-cols-2 row-gap-8 md:grid-cols-4">
         <div class="text-center md:border-r dark:md:border-slate-500 mb-10 md:mb-0">
           <div class="text-4xl font-bold lg:text-5xl xl:text-6xl text-[#039de1] font-heading">
-            132K
+            4,600
           </div>
           <p class="text-sm font-medium tracking-widest text-gray-800 dark:text-slate-400 uppercase lg:text-base">
-            Downloads
+            Members
           </p>
         </div>
         <div class="text-center md:border-r dark:md:border-slate-500 mb-10 md:mb-0">
           <div class="text-4xl font-bold lg:text-5xl xl:text-6xl text-[#039de1] font-heading">
-            24.8K
+            1,300
           </div>
           <p class="text-sm font-medium tracking-widest text-gray-800 dark:text-slate-400 uppercase lg:text-base">
-            Stars
+            Customers
           </p>
         </div>
         <div class="text-center md:border-r dark:md:border-slate-500 font-heading">
           <div class="text-4xl font-bold lg:text-5xl xl:text-6xl text-[#039de1]">
-            10.3K
+            3 
           </div>
           <p class="text-sm font-medium tracking-widest text-gray-800 dark:text-slate-400 uppercase lg:text-base">
-            Forks
+            Sectors
           </p>
         </div>
         <div class="text-center">

@@ -12,14 +12,14 @@ export default component$(() => {
             <div>
               <h1 class="text-5xl md:text-[3.48rem] font-bold leading-tighter tracking-tighter mb-4 font-heading px-4 md:px-0">
                 Innovation starts here <br class="hidden lg:block" />{" "}
-                <span class="hidden lg:inline">at </span> <span class="text-[#039de1]">NotAnyPlace</span> 
+                <span class="hidden lg:inline">at </span> <span class="text-[#039de1]">DiinoTech</span> 
               </h1>
               <div class="max-w-3xl mx-auto">
                 <p class="text-xl text-gray-600 mb-8 dark:text-slate-400">
 Welcome to a 
 <b> World of Possibilities</b>, Welcome to {" "}
                   <span class="font-semibold underline decoration-wavy decoration-1 decoration-secondary-600 underline-offset-2">
-                    NotAnyPlace.
+                    DiinoTech.
                   </span>{" "}
                   A place where Efficiency, Affordability and Quality combine to form the perfect mix for the customers. {" "}
                   <span class="inline md:hidden">...</span>

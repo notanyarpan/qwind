@@ -47,7 +47,7 @@ export default component$(() => {
           {
             title: "DiinoWeb",
             description:
-              "DiinoWeb is a DiinoTech brand focusing on web development, data and more.",
+              "DiinoWeb is a DiinoTech's newest upcoming brand focusing on web development, data and more.",
             icon: IconRocket,
           },
         ]}

@@ -34,9 +34,9 @@ export default component$(() => {
             icon: IconBrandTailwind,
           },
           {
-            title: "Ready-to-use Components",
+            title: "DiinoMC",
             description:
-              "Widgets made with Tailwind CSS ready to be used in Marketing Websites, SaaS, Blogs, Personal Profiles, Small Business...",
+              "DiinoMC is DiinoTechs first ever minecraft server. Where you can play amny types of minigames such as lifesteal and more.",
             icon: IconApps,
           },
           {

@@ -34,15 +34,15 @@ export default component$(() => {
             icon: IconBrandTailwind,
           },
           {
-            title: "DiinoMC",
+            title: "Diino Maeketplace",
             description:
-              "DiinoMC is DiinoTechs first ever minecraft server. Where you can play amny types of minigames such as lifesteal and more.",
+              "Diino Marketplace is a DiinoTech brand focusing on selling online merchendice such as instagram followers, youtube premium and more.",
             icon: IconApps,
           },
           {
-            title: "Best Practices",
+            title: "DiinoMC",
             description:
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
+              "DiinoMC is DiinoTechs first ever minecraft server. Where you can play amny types of minigames such as lifesteal and more.",
           },
           {
             title: "Excellent Page Speed",

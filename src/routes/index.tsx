@@ -34,15 +34,15 @@ export default component$(() => {
             icon: IconBrandTailwind,
           },
           {
-            title: "Ready-to-use Components",
+            title: "DiinoMarketplace",
             description:
-              "Widgets made with Tailwind CSS ready to be used in Marketing Websites, SaaS, Blogs, Personal Profiles, Small Business...",
+              "DiinoMarketplace is a DiinoTech brand focusing on giving you online merchendice such as youtube premium, instagram followers and much more. ",
             icon: IconApps,
           },
           {
-            title: "Best Practices",
+            title: "DiinoMC",
             description:
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
+              "DiinoMC is DiinoTechs first ever minecraft server brand focusing on giving you the best time of your life on our minecraft server, focusing on lifesteal and more",
           },
           {
             title: "Excellent Page Speed",

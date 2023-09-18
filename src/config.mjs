@@ -1,12 +1,12 @@
 export const SITE = {
-  name: "Qwind",
+  name: "DiinoTech",
 
   title:
-    "Qwind — Free template for Qwik + Tailwind CSS to build your new website.",
+    "DiinoTech",
   description:
-    "Qwind is a free and ready to start template to make your website using Qwik and Tailwind CSS.",
+    "DiinoTech is the only place where you find Affordable products with Gauranteed Quality. A service that is found no-where...",
 
-  origin: "https://qwind.pages.dev",
+  origin: "https://diino.tech",
   basePathname: "/",
   trailingSlash: true,
 };

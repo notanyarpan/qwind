@@ -23,14 +23,14 @@ export default component$(() => {
     <>
       <Hero />
       <Features
-        highlight="Features"
-        title="What you get with Qwind"
-        subtitle="Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae."
+        highlight="Our Brands"
+        title="DiinoTech's Brands"
+        subtitle="The official brands of DiinoTech."
         items={[
           {
-            title: "Qwik + Tailwind CSS Integration",
+            title: "DiinoHost",
             description:
-              "A seamless integration between two great frameworks that offer high productivity, performance and versatility.",
+              "Diino Host is a DiinoTech brand focusing on hosting. DiinoHost provides free and paid 24/7 hosting. We host minecraft servers, discord bots and many more!",
             icon: IconBrandTailwind,
           },
           {

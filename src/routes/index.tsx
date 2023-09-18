@@ -48,7 +48,7 @@ export default component$(() => {
             title: "DiinoWeb",
             description:
               "Nothing yet",
-            icon: IconLaptop,
+            icon: IconRocket,
           },
           {
             title: "Search Engine Optimization (SEO)",

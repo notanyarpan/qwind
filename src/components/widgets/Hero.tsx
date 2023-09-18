@@ -1,7 +1,7 @@
 import { component$ } from "@builder.io/qwik";
 import { Image } from "@unpic/qwik";
 
-const coverImage = "https://images.unsplash.com/photo-1590767950092-42b8362368da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3087&q=80";
+const coverImage = "https://cdn.discordapp.com/icons/1125028471438053377/6e3bf96eea782da113de626b7444685b.png?size=1024";
 
 export default component$(() => {
   return (

@@ -25,15 +25,15 @@ export default component$(() => {
             3 
           </div>
           <p class="text-sm font-medium tracking-widest text-gray-800 dark:text-slate-400 uppercase lg:text-base">
-            Sectors
+            Subsidiaries
           </p>
         </div>
         <div class="text-center">
           <div class="text-4xl font-bold lg:text-5xl xl:text-6xl text-[#039de1] font-heading">
-            48.4K
+            20+
           </div>
           <p class="text-sm font-medium tracking-widest text-gray-800 dark:text-slate-400 uppercase lg:text-base">
-            Users
+            Happy Staff
           </p>
         </div>
       </div>

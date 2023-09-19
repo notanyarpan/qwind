@@ -59,7 +59,7 @@ export default component$(() => {
           {
             title: "Do you scam?",
             description:
-              "No, we have never scammed in our life.",
+              "No, we have never scam.",
           },
           {
             title: "Are you legit?",

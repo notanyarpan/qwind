@@ -3,7 +3,7 @@
 ## Pages
 
 
-- [Terms](/terms)
-- [Privacy](/privacy)
+- [Soon](/terms)
+- [Soon](/privacy)
 
-## [Blog](/blog)
+## [Reviews](/blog)

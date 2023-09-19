@@ -6,28 +6,28 @@ const sideImg = "https://clipground.com/images/why-png-10.png";
 
 export default component$(() => {
   const stepsData = {
-    title: 'Sed ac magna sit amet risus tristique interdum. hac.',
+    title: 'Why choose DiinoTech?',
     items: [
       {
-        title: 'Step 1',
+        title: 'Our first why',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mirisus tempus nulla, sed porttitor est nibh at nulla. Praesent placerat enim ut ex tincidunt vehicula. Fusce sit amet dui tellus.',
+          'We are safe and secure, we never scam. I tell you, we never scam.',
         icon: IconStar,
       },
       {
-        title: 'Step 2',
+        title: 'Our second why',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mirisus tempus nulla, sed porttitor est nibh at nulla.',
+          'All of our bussniess have certified reviews from our customers',
         icon: IconStar,
       },
       {
-        title: 'Step 3',
+        title: 'Our third why',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mirisus tempus nulla, sed porttitor est nibh at nulla.',
+          'Why not? >.<',
         icon: IconStar,
       },
       {
-        title: 'Ready!',
+        title: 'Choose us!',
         icon: IconStar,
       },
     ],

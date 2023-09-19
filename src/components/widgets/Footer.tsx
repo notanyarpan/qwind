@@ -9,59 +9,51 @@ import IconGithub from "~/components/icons/IconGithub"
 export default component$(() => {
   const links = [
     {
-      title: "Product",
+      title: "Our brands",
       items: [
-        { title: "Features", href: "#" },
-        { title: "Security", href: "#" },
-        { title: "Team", href: "#" },
-        { title: "Enterprise", href: "#" },
-        { title: "Customer stories", href: "#" },
-        { title: "Pricing", href: "#" },
-        { title: "Resources", href: "#" },
+        { title: "DiinoHost", href: "#" },
+        { title: "DiinoMC", href: "#" },
+        { title: "DiinoWEB", href: "#" },
+        { title: "Diino Marketplace", href: "#" },
       ],
     },
     {
-      title: "Platform",
+      title: "Staff members",
       items: [
-        { title: "Developer API", href: "#" },
-        { title: "Partners", href: "#" },
-        { title: "Atom", href: "#" },
-        { title: "Electron", href: "#" },
-        { title: "Qwind Desktop", href: "#" },
+        { title: "Conquez", href: "#" },
+        { title: "GoldMic", href: "#" },
+        { title: "TS • AvexX", href: "#" },
+        { title: "AHN GAMING", href: "#" },
+        { title: "President Albuman", href: "#" },
       ],
     },
     {
       title: "Support",
       items: [
-        { title: "Docs", href: "#" },
-        { title: "Community Forum", href: "#" },
-        { title: "Professional Services", href: "#" },
-        { title: "Skills", href: "#" },
-        { title: "Status", href: "#" },
+        { title: "Discord Server", href: "#" },
+        { title: "FAQ", href: "#" },
       ],
     },
     {
-      title: "Company",
+      title: "",
       items: [
-        { title: "About", href: "#" },
-        { title: "Blog", href: "#" },
-        { title: "Careers", href: "#" },
-        { title: "Press", href: "#" },
-        { title: "Inclusion", href: "#" },
-        { title: "Social Impact", href: "#" },
-        { title: "Shop", href: "#" },
+        { title: "", href: "#" },
+        { title: "", href: "#" },
+        { title: "", href: "#" },
+        { title: "", href: "#" },
+        { title: "", href: "#" },
+        { title: "", href: "#" },
+        { title: "", href: "#" },
       ],
     },
   ];
 
   const social = [
-    { label: "Twitter", icon: IconTwitter, href: "#" },
     { label: "Instagram", icon: IconInstagram, href: "#" },
-    { label: "Facebook", icon: IconFacebook, href: "#" },
     {
-      label: "Github",
-      icon: IconGithub,
-      href: "https://github.com/onwidget/qwind",
+      label: "",
+      icon: ,
+      href: "",
     },
   ];
 
@@ -72,12 +64,11 @@ export default component$(() => {
           <div class="col-span-12 lg:col-span-4 pr-8">
             <div class="mb-2">
               <Link class="inline-block font-bold text-xl" href={"/"}>
-                Qwind
+                DiinoHost
               </Link>
             </div>
             <div class="text-sm text-gray-600 dark:text-gray-400">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi
-              risus tempus nulla
+             DiinoTech is a multibussniess company with 4 sectors, minecraft, hosting, data and web development and Online Marketplace
             </div>
           </div>
           {links.map(({ title, items }, index) => (
@@ -117,7 +108,7 @@ export default component$(() => {
           </ul>
 
           <div class="text-sm text-gray-700 mr-4 dark:text-slate-400">
-            <span class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 float-left rounded-sm bg-[url(https://onwidget.com/favicon/favicon-32x32.png)]"></span>
+            <span class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 float-left rounded-sm bg-[url(https://cdn.discordapp.com/icons/1125028471438053377/6e3bf96eea782da113de626b7444685b.png?size=1024)]"></span>
             {" "}
             <a class="text-secondary-700 hover:underline dark:text-gray-200" href="https://diino.tech/">
               {" "}

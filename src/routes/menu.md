@@ -1,9 +1,9 @@
 # Menu
 
-## Pages
+## Legal
 
 
-- [Soon](/terms)
-- [Soon](/privacy)
+- [Soon](/soon)
+- [Soon](/soon)
 
 ## [Reviews](/blog)

@@ -14,7 +14,7 @@ export default component$(() => {
         { title: "DiinoHost", href: "#" },
         { title: "DiinoWeb", href: "#" },
         { title: "DiinoMC", href: "#" },
-        { title: "DiinoBay (Diino Marketplace) ", href: "#" },
+        { title: "DiinoBay", href: "#" },
         { title: "Soon", href: "#" },
         { title: "Soon", href: "#" },
         { title: "Soon", href: "#" },
@@ -116,9 +116,9 @@ export default component$(() => {
           </ul>
 
           <div class="text-sm text-gray-700 mr-4 dark:text-slate-400">
-            <span class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 float-left rounded-sm bg-[url(https://onwidget.com/favicon/favicon-32x32.png)]"></span>
-            Made by{" "}
-            <a class="text-secondary-700 hover:underline dark:text-gray-200" href="https://onwidget.com/">
+            <span class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 float-left rounded-sm bg-[url(https://cdn.discordapp.com/icons/1125028471438053377/6e3bf96eea782da113de626b7444685b.png?size=1024)]"></span>
+            {" "}
+            <a class="text-secondary-700 hover:underline dark:text-gray-200" href="#">
               {" "}
               DiinoTech
             </a>{" "}

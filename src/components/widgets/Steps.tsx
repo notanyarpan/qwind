@@ -2,7 +2,7 @@ import { component$ } from "@builder.io/qwik";
 import { Image } from "@unpic/qwik";
 
 import IconStar from "~/components/icons/IconStar"
-const sideImg = "https://vparagon.com/wp-content/uploads/2019/06/why_us.png";
+const sideImg = "https://clipground.com/images/why-png-10.png";
 
 export default component$(() => {
   const stepsData = {

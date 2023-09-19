@@ -53,38 +53,38 @@ export default component$(() => {
       <Steps />
       <FAQs
         title="Frequently Asked Questions"
-        subtitle="Duis turpis dui, fringilla mattis sem nec, fringilla euismod neque. Morbi tincidunt lacus nec tortor scelerisque pulvinar."
+        subtitle="All qyestions asked, answered."
         highlight="FAQs"
         items={[
           {
-            title: "What do I need to start?",
+            title: "Do you scam?",
             description:
-              "Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds. Many say exploration is part of our destiny, but it’s actually our duty to future generations.",
+              "No, we have never scammed in our life.",
           },
           {
-            title: "How to install the Qwik + Tailwind CSS template?",
+            title: "Are you legit?",
             description:
-              "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows.",
+              "Yes we are legit, by our customers reviews, we are totaly legit.",
           },
           {
-            title: "What's something that you don't understand?",
+            title: "Who is the main founder of DiinoTech?",
             description:
-              "A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear. I didn't even know we were calling him Big Bear.",
+              "The main founder of DiinoTech is conquez (quez) in 2023",
           },
           {
-            title: "What's an example of when you changed your mind?",
+            title: "How many companys are running so far?",
             description:
-              "Michael Knight a young loner on a crusade to champion the cause of the innocent. The helpless. The powerless in a world of criminals who operate above the law. Here he comes Here comes Speed Racer. He's a demon on wheels.",
+              "We are focusing on DiinoHost, DiinoMarketplace and DiinoWeb, not quite much about DiinoMC.",
           },
           {
-            title: "What is something that you would like to try again?",
+            title: "Are staff applications open?",
             description:
-              "A business big enough that it could be listed on the NASDAQ goes belly up. Disappears! It ceases to exist without me. No, you clearly don't know who you're talking to, so let me clue you in.",
+              "Check out our discord server if you want to see that.",
           },
           {
-            title: "If you could only ask one question to each person you meet, what would that question be?",
+            title: "What is your discord server?",
             description:
-              "This is not about revenge. This is about justice. A lot of things can change in twelve years, Admiral. Well, that's certainly good to know. About four years. I got tired of hearing how young I looked.",
+              "Click the discord server button on the navbar of your screen to communicate with us. We will soon launch a chat box for everybody.",
           },
         ]}
       />

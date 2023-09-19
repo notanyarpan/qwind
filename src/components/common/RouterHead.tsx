@@ -14,7 +14,7 @@ export const RouterHead = component$(() => {
 
       <link rel="canonical" href={String(loc.url)} />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <link rel="icon" type="image/png" href="/logo.png" />
+      <link rel="icon" type="image/png" href="https://cdn.discordapp.com/icons/1125028471438053377/6e3bf96eea782da113de626b7444685b.png?size=1024" />
 
 
       {head.meta.map((m, i) => (

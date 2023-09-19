@@ -13,8 +13,6 @@ import { qwikSerialized } from "~/utils/qwikSerialized";
 const IconBrandTailwind = qwikSerialized(() => import("../components/icons/IconBrandTailwind"));
 const IconApps = qwikSerialized(() => import("../components/icons/IconApps"));
 const IconRocket = qwikSerialized(() => import("../components/icons/IconRocket"));
-const IconBrandGoogle = qwikSerialized(() => import("../components/icons/IconBrandGoogle"));
-const IconBulb = qwikSerialized(() => import("../components/icons/IconBulb"));
 
 import { SITE } from "~/config.mjs";
 
@@ -50,16 +48,6 @@ export default component$(() => {
               "DiinoWeb is DiinoTech's newest upcoming brand focusing on data, web managment and more.",
             icon: IconRocket,
           },
-          {
-title: "Search Engine Optimization (SEO)",
-description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
-icon: IconBrandGoogle,
-},
-{
-title: "Open to new ideas and contributions",
-description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
-icon: IconBulb,
-},
         ]}
       />
       <Steps />

@@ -53,7 +53,7 @@ export default component$(() => {
       <Steps />
       <FAQs
         title="Frequently Asked Questions"
-        subtitle="All qyestions asked, answered."
+        subtitle="All questions asked, answered."
         highlight="FAQs"
         items={[
           {

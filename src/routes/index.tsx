@@ -50,7 +50,16 @@ export default component$(() => {
               "DiinoWeb is DiinoTech's newest upcoming brand focusing on data, web managment and more.",
             icon: IconRocket,
           },
-         
+          {
+title: "Search Engine Optimization (SEO)",
+description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
+icon: IconBrandGoogle,
+},
+{
+title: "Open to new ideas and contributions",
+description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
+icon: IconBulb,
+},
         ]}
       />
       <Steps />

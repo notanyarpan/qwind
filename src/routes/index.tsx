@@ -42,26 +42,15 @@ export default component$(() => {
           {
             title: "DiinoMC",
             description:
-              "DiinoMC is DiinoTechs first ever minecraft server brand focusing on giving you the best time of your life on our minecraft server, focusing on lifesteal and more",
+              "DiinoMC is DiinoTech's first ever minecraft server brand focusing on giving you the best time of your life on our minecraft server, focusing on lifesteal and more",
           },
           {
             title: "DiinoWeb",
             description:
-              "DiinoWeb is DiinoTechs newest upcoming brand focusing on data, web managment and more.",
+              "DiinoWeb is DiinoTech's newest upcoming brand focusing on data, web managment and more.",
             icon: IconRocket,
           },
-          {
-            title: "Search Engine Optimization (SEO)",
-            description:
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
-            icon: IconBrandGoogle,
-          },
-          {
-            title: "Open to new ideas and contributions",
-            description:
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla.",
-            icon: IconBulb
-          },
+         
         ]}
       />
       <Steps />

@@ -11,19 +11,19 @@ export default component$(() => {
       {
         title: 'Our first why',
         description:
-          'We are safe and secure, we never scam. I tell you, we never scam.',
+          'DiinoHost is a trusted multibussinesss that never scams.',
         icon: IconStar,
       },
       {
         title: 'Our second why',
         description:
-          'All of our bussniess have certified reviews from our customers',
+          'All our bussnisses such as DiinoHost, Diino Marketplace and more have certified reviews from both our free and paid customers.',
         icon: IconStar,
       },
       {
         title: 'Our third why',
         description:
-          'Why not? >.<',
+          'Why not choose us? ㄟ( ▔, ▔ )ㄏ',
         icon: IconStar,
       },
       {

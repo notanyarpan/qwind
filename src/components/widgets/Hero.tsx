@@ -11,7 +11,7 @@ export default component$(() => {
           <div class="mx-auto text-center basis-1/2 lg:text-left md:pb-16 pb-12 lg:pb-0">
             <div>
               <h1 class="text-5xl md:text-[3.48rem] font-bold leading-tighter tracking-tighter mb-4 font-heading px-4 md:px-0">
-                Innovation starts here <br class="hidden lg:block" />{" "}
+                Technology starts here <br class="hidden lg:block" />{" "}
                 <span class="hidden lg:inline">at </span> <span class="text-[#039de1]">DiinoTech</span> 
               </h1>
               <div class="max-w-3xl mx-auto">
@@ -21,7 +21,7 @@ Technology
                   <span class="font-semibold underline decoration-wavy decoration-1 decoration-secondary-600 underline-offset-2">
                     DiinoTech.
                   </span>{" "}
-                  A place where Efficiency, Affordability and Quality combine to form the perfect mix for the customers. {" "}
+                  DiinoTech is a multibussniess company focusing on Server hosting, Web development and online markerplace {" "}
                   <span class="inline md:hidden">...</span>
                   <span class="hidden md:inline">
                     
@@ -31,7 +31,7 @@ Technology
                   <div class="flex w-full sm:w-auto">
                     <a
                       class="btn btn-primary sm:mb-0 w-full"
-                      href="https://example.com"
+                      href="https://discord.gg/afRZgrBVXa"
                       target="_blank"
                       rel="noopener"
                     >
@@ -39,7 +39,7 @@ Technology
                     </a>
                   </div>
                   <div class="flex w-full sm:w-auto">
-    <a href="https://www.example.com" class="btn w-full bg-gray-50 dark:bg-transparent">Learn more</a>
+    <a href="https://discord.gg/afRZgrBVXa" class="btn w-full bg-gray-50 dark:bg-transparent">Learn more</a>
 </div>
 
                 </div>
@@ -53,7 +53,7 @@ Technology
                 layout="constrained"
                 width={493}
                 height={616}
-                alt="Qwind Hero Image (Cool dog)"
+                alt="DiinoLogo"
                 class="mx-auto lg:mr-0 w-full drop-shadow-2xl rounded-md"
                 breakpoints={[320, 480, 640, 1024]}
               />

@@ -34,7 +34,7 @@ export default component$(() => {
           {
             title: "Diino Marketplace",
             description:
-              "DiinoMarketplace is a DiinoTech brand focusing on giving you online merchendice such as youtube premium, instagram followers and much more. ",
+              "DiinoMarketplace is a DiinoTech brand focusing online shopping. ",
             icon: IconApps,
           },
           {

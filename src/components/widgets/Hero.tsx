@@ -21,7 +21,7 @@ Technology
                   <span class="font-semibold underline decoration-wavy decoration-1 decoration-secondary-600 underline-offset-2">
                     DiinoTech.
                   </span>{" "}
-                  DiinoTech is a multibussniess company focusing on Server hosting, Web development and online markerplace {" "}
+                  DiinoTech is a multibussniess company consisting of 3 sectors. Which all focus on Web Development, Server hosting and online shopping. {" "}
                   <span class="inline md:hidden">...</span>
                   <span class="hidden md:inline">
                     

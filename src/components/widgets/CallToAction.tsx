@@ -14,8 +14,8 @@ export default component$(() => {
               </span>
             </h2>
             <p class="text-xl text-gray-600 dark:text-slate-400">
-             The next big thing, just starting. <br class="hidden md:inline" />
-              Don't waste more time and start making your company with DiinoTech!
+             This is where technology starts. <br class="hidden md:inline" />
+              This is DiinoTech. Welcome to Diino.
             </p>
 
             <div class="mt-6">

@@ -40,7 +40,7 @@ export default component$(() => {
           {
             title: "DiinoMC",
             description:
-              "DiinoMC is DiinoTech's first ever minecraft server brand focusing on giving you the best time of your life on our minecraft server, focusing on lifesteal and more",
+              "DiinoMC is a non DiinoTech brand which is a minecraft network. ",
           },
           {
             title: "DiinoWeb",
@@ -59,32 +59,32 @@ export default component$(() => {
           {
             title: "Do you scam?",
             description:
-              "No, we have never scam.",
+              "DiinoTechs strives to give the best to you. We do not strive to steal peoples money.",
           },
           {
             title: "Are you legit?",
             description:
-              "Yes we are legit, by our customers reviews, we are totaly legit.",
+              "DiinoTech and DiinoTechs Brands are legit. We have certified customer reviews on all our brands.",
           },
           {
-            title: "Who is the main founder of DiinoTech?",
+            title: "Do we have free minecraft hosting?",
             description:
-              "The main founder of DiinoTech is conquez (quez) in 2023",
+              "DiinoTech have a brand focusing on Hosting. We provide free and paid hosting for minecraft and more.",
           },
           {
-            title: "How many companys are running so far?",
+            title: "What are your newest upcoming brands?",
             description:
-              "We are focusing on DiinoHost, DiinoMarketplace and DiinoWeb, not quite much about DiinoMC.",
+              "Our newest upcoming brand is DiinoWeb. Its a company focusing on web development and more.",
           },
           {
-            title: "Are staff applications open?",
+            title: "How many customers have you served",
             description:
-              "Check out our discord server if you want to see that.",
+              "We have served a whopping 1000+ customers. We are strong and we will stay strong with all your support. ",
           },
           {
-            title: "What is your discord server?",
+            title: "Whats DiinoMC",
             description:
-              "Click the discord server button on the navbar of your screen to communicate with us. We will soon launch a chat box for everybody.",
+              "DinoMC is a NON DiinoTech brand. Please note that this is NOT part of DiinoTech as we have 3 brands. DiinoMC is not part of it. DiinoMC is a minecraft network. Has nothing related to DiinoTech.",
           },
         ]}
       />

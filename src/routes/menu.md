@@ -3,6 +3,6 @@
 ## Legal
 
 
-- [Soon](/soon)
+- [Terms](/terms)
 
-## [Reviews](/blog)
+## [Privacy](/privacy)
